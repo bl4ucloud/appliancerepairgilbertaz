@@ -1,2 +1,0 @@
-# appliancerepairgilbertaz
-My awesome repository
